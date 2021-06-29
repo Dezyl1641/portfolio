@@ -1,0 +1,69 @@
+
+
+body{
+    background-color: #ddd;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+#insta-links{
+    background-color: #111;
+}
+
+a{
+    text-decoration: none; 
+    padding: 6px;
+    background-color: #555;
+    color: cornsilk;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+a:hover{
+    background-color: darkgray;
+    color: black;
+}
+#insta-links ul{
+    
+    text-align: right; 
+    margin-right: 10px; 
+    list-style-type: none;
+    
+}
+
+li{
+    margin-left: 20px;
+    display: inline-block
+}
+
+
+#title{
+    color: red;
+}
+
+
+img[class]{
+    width: 50%;
+    border-radius: 15px;
+    
+}
+
+#title{
+    font-family: Akaya Kanadaka, Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: 'Akaya Kanadaka', cursive;
+    text-transform: uppercase;
+}
+h3, h2{
+    font-family: 'Akaya Kanadaka', cursive;
+}
+ h3{
+     padding: 10px;
+     background-color: burlywood;
+     width: 48%;
+     border-radius: 10px;
+     text-align: center;
+     background: -moz-linear-gradient(top, #aadddd, #77aacc);
+     background: -webkit-linear-gradient(top, #aadddd, #77aacc);
+ } 
